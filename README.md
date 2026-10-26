@@ -15,7 +15,7 @@ I'm a senior CS student at the **University of Florida** who loves building web 
 
 - **Now:** leading a 5-engineer team on an RTX-sponsored capstone, building an offline AI system that turns NIST 800-53 controls into compliance requirements
 - **Studying:** B.S. Computer Science (May 2027) + AI Fundamentals & Applications Certificate
-- **Before:** backend work for UF's Open Source Club on a 110+ fork project
+- **Outside code:** pickleball, golf, gaming, and hunting for the best new food spot
 - **Looking for:** new grad software engineering roles for 2027
 
 ## 🏆 Featured work
