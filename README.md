@@ -33,4 +33,3 @@ A* vs. Dijkstra's across 480,000+ hand-labelled cells
 
 <img src="./assets/toolbox.svg" alt="Languages: Python, TypeScript, JavaScript, C++, SQL, HTML/CSS. Frameworks: React, Next.js, Node.js, Express, React Native, Tailwind. Tools: Git, Docker, AWS, PostgreSQL, MongoDB, Google ADK, Vercel" width="100%" />
 
-<p align="center"><sub>☕ Thanks for stopping by — <a href="mailto:kavipatel.jobs@gmail.com">say hi</a>.</sub></p>
